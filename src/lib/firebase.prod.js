@@ -6,13 +6,13 @@ import 'firebase/compat/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: "AIzaSyBbrwjm8cJoC5LxG4d2ovc8_TemkNkVkgo",
+  apiKey: "put your key here"
   authDomain: "project1-684f0.firebaseapp.com",
-  projectId: "project1-684f0",
-  databaseURL: 'https://project1-684f0.firebaseio.com',
-  storageBucket: "project1-684f0.appspot.com",
-  messagingSenderId: "844022890705",
-  appId: "1:844022890705:web:559202f729821ac90385f0"
+  projectId: "nil",
+  databaseURL: 'nil',
+  storageBucket: "nil",
+  messagingSenderId: "nil",
+  appId: "nil"
 };
 
 const firebase = Firebase.initializeApp(config);
