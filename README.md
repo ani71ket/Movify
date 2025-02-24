@@ -6,7 +6,7 @@
 </h1>
 
 <p><font size="3">
-  This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  This is a movie streaming website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of a proper website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   <br><br> 
   <strong><em>Take a look at the live version here:</em></strong> https://react-netflix-clone-beta.vercel.app :octocat: :heart_eyes:
 </p>
@@ -186,10 +186,6 @@ It contains useful links users may need it.
 
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
-# Live Demo
-
-***Take a look on the live version here:*** https://react-netflix-clone-red.vercel.app/ :octocat: :heart_eyes: 
-
 
 # Technology Used
 
@@ -305,17 +301,6 @@ const config = {
 npm start
 ```
 
-9) Now you can see the project in your browser as you see in the live demo link. 
-Happy Hacking!
-
-
-# Show Your Support
-
-Give a ⭐️ if you like this project!
-
-# Acknowledgments
-
-Hat tip to everyone helped me to learn the techniques used in building this project.
 
 # License 
 
