@@ -3,7 +3,7 @@
 </h1>
 
 <p><font size="3">
-  This is a movie streaming website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of a proper website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced       like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  This is a movie streaming website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Back-end. It's not a replica, and it     doesn't have all the features of a proper website. it's a similar version of movify with my own design touch, showing my abilities in React.JS to build something advanced       like movify. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
   
 </p>
 
@@ -41,7 +41,7 @@ It shows the main sentences of the website.
 It's a text input field and a button,  It redirects you to the sign-up page once you click on the button.
 
 ***3) Jumbotron:***
-This section contains some images and paragraphs beside it, showing the advantages of Netflix. The data of this Jumbotron came from jumbo.json file.
+This section contains some images and paragraphs beside it, showing the advantages of Movify. The data of this Jumbotron came from jumbo.json file.
 
 ***4) Frequently Asked Questions:***
 This section contains the FAQs in a form of accordion, when you click anywhere in the gray area of the question the answer appears below it, and then you can close the answer by clicking again on the same gray area of the question. The data of these FAQs came from faqs.json file.
@@ -173,7 +173,7 @@ To be able to use this react app locally in a development environment you will n
 
 1) You will need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) installed on your computer.
 
-2) You will need an account on [Firebase](https://firebase.com) and you should create a project on your firebase account dedicated to this Netflix project.
+2) You will need an account on [Firebase](https://firebase.com) and you should create a project on your firebase account dedicated to this movify project.
 
 3) You will need the "./seed.js" file (which I added in this repo) to seed your firebase backend with movies information. OR you can use your seed file with your information if you want.
 
@@ -181,10 +181,10 @@ To be able to use this react app locally in a development environment you will n
 
 ```cmd
 # Clone this repository
-git clone https://github.com/AhmedTohamy01/React-Netflix-Clone
+git clone https://https://github.com/ani71ket/Movify
 
 # Go into the repository
-cd react-netflix-clone
+cd react-movify
 
 # Install dependencies
 npm install 
@@ -251,7 +251,7 @@ const config = {
  
 ```
 
-8) After seeding your firebase database with the movies information & reverting the Github Pages changes you can run the Netflix React App using the following command from your terminal:
+8) After seeding your firebase database with the movies information & reverting the Github Pages changes you can run the movify React App using the following command from your terminal:
 
 ```
 # Run the app
