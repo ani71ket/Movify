@@ -251,7 +251,7 @@ const config = {
  
 ```
 
-8) After seeding your firebase database with the movies information & reverting the Github Pages changes you can run the movify React App using the following command from your terminal:
+8) After seeding your firebase database with the movies information & reverting the Github Pages changes you can run the Movify App using the following command from your terminal:
 
 ```
 # Run the app
