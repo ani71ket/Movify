@@ -28,16 +28,6 @@
 
  # Home Page
 
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/5.jpg)
-![ScreenShot](/public/images/readme/6.jpg)
-![ScreenShot](/public/images/readme/7.jpg)
-![ScreenShot](/public/images/readme/8.jpg)
-![ScreenShot](/public/images/readme/9.jpg)
-![ScreenShot](/public/images/readme/10.jpg)
-</div>
-
 The Home Page consists of 5 main sections:
 
 ***1) Header, which includes:***
@@ -66,12 +56,6 @@ It contains useful links users may need it.
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
  # Sign-in Page
- 
- <div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/11.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
-</div>
 
 The Sign-in Page consists of 3 main sections:
 
@@ -97,12 +81,6 @@ It contains useful links users may need it.
 
  # Sign-up Page
  
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/13.jpg)
-![ScreenShot](/public/images/readme/12.jpg)
-</div>
-
 The Sign-up Page consists of 3 main sections:
 
 ***1) Header, which includes:***
@@ -128,14 +106,6 @@ It contains useful links users may need it.
 ***### The page is fully responsive to all mobile devices even the small ones. ###***
 
  # Browse Page
-
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/1.jpg)
-![ScreenShot](/public/images/readme/2.jpg)
-![ScreenShot](/public/images/readme/3.jpg)
-![ScreenShot](/public/images/readme/4.jpg)
-</div>
 
 The Browse Page consists of 5 main sections:
 
@@ -168,12 +138,6 @@ And when the video player show up the whole screen became an overlay, and only t
 The video player should show the video of this movie which you clicked on it, but for this project purpose, it shows only one video as a sample for all movies.
 
 You can close the video player anytime by clicking anywhere else on the screen.
-
-<div align="center"><a name="menu"></a>
-
-![ScreenShot](/public/images/readme/14.jpg)
-
-</div>
 
 ***6) Footer:***
 It contains useful links users may need it.
