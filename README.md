@@ -1,6 +1,4 @@
-
 <h1 align="center">
-  <br>
   Movify Built Using React.JS & Firebase
 </h1>
 
