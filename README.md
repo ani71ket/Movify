@@ -17,7 +17,6 @@
   - [Sign-in Page](#sign-in-page)
   - [Sign-up Page](#sign-up-page)
   - [Browse Page](#browse-page)
-- [Live Demo](#live-demo)
 - [Technology Used](#technology-used)
 - [How To Use](#how-to-use)
 - [License](#license)
